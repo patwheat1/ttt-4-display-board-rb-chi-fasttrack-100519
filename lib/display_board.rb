@@ -1,4 +1,4 @@
-def display_board(board)
+def display_board(" "," "," "," ","X"," "," "," "," ")
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
